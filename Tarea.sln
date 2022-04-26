@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tarea", "Tarea\Tarea.vbproj", "{FA0DFE15-56D7-4351-82A1-B569555B5295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0DFE15-56D7-4351-82A1-B569555B5295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0DFE15-56D7-4351-82A1-B569555B5295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0DFE15-56D7-4351-82A1-B569555B5295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0DFE15-56D7-4351-82A1-B569555B5295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

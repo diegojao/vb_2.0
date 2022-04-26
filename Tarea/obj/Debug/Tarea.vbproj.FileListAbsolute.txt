@@ -1,0 +1,11 @@
+c:\users\alegria\documents\visual studio 2015\Projects\Tarea\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\Alegria\documents\visual studio 2015\Projects\Tarea\Tarea\bin\Debug\Tarea.exe
+C:\Users\Alegria\documents\visual studio 2015\Projects\Tarea\Tarea\bin\Debug\Tarea.pdb
+C:\Users\Alegria\documents\visual studio 2015\Projects\Tarea\Tarea\bin\Debug\Tarea.xml
+C:\Users\Alegria\documents\visual studio 2015\Projects\Tarea\Tarea\obj\Debug\Tarea.vbprojResolveAssemblyReference.cache
+C:\Users\Alegria\documents\visual studio 2015\Projects\Tarea\Tarea\obj\Debug\Tarea.Form1.resources
+C:\Users\Alegria\documents\visual studio 2015\Projects\Tarea\Tarea\obj\Debug\Tarea.Resources.resources
+C:\Users\Alegria\documents\visual studio 2015\Projects\Tarea\Tarea\obj\Debug\Tarea.vbproj.GenerateResource.Cache
+C:\Users\Alegria\documents\visual studio 2015\Projects\Tarea\Tarea\obj\Debug\Tarea.exe
+C:\Users\Alegria\documents\visual studio 2015\Projects\Tarea\Tarea\obj\Debug\Tarea.xml
+C:\Users\Alegria\documents\visual studio 2015\Projects\Tarea\Tarea\obj\Debug\Tarea.pdb
